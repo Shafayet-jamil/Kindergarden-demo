@@ -1,0 +1,113 @@
+/* *{
+    display: 80%;
+    margin: 20px;
+    margin-top: 0px;
+    padding: 0px;
+} */
+
+ *{
+    margin: 0px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+
+ }
+ .display{
+    text-decoration: none;
+    margin-left: 10%;
+    margin-right: 10%;
+ }
+
+
+
+.blank{
+    
+    background-color: rgb(129, 186, 133);
+    padding: 20px;
+    /* width: 100%; */
+    
+}
+
+.lists{
+    text-decoration: none;
+    list-style: none;  
+    display: flex; 
+    justify-content: center;
+    padding: 20px;
+}
+.list{
+    padding-right: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.header{
+    background-color: rgb(255, 255, 255); 
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+
+.h1{
+    padding-bottom: 20px;
+    color: red;
+    text-decoration: deepskyblue;
+
+}
+.paragraph{
+    padding-bottom: 20px;
+    font-display: calc(rgb(0, 37, 49));
+}
+
+.upperpart{
+    
+    justify-content: center;
+    text-align: center;
+}
+.formcontent{
+    background-color: rgb(37, 41, 41);
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+
+}
+.container{
+    display: flex;
+}
+
+.h3{
+    padding: 15px;
+}
+
+.text{
+    padding-top: 2px;
+}
+.formcontent{
+    padding: 10px;
+    border-radius: 5px;
+}
+.button{
+    background-color: yellow;
+    margin-top: 10px;
+    padding: 10px;
+    scroll-padding: 3px;
+    border-radius: 10px;
+    
+}
+
+#message{
+    background-color: rgb(75, 75, 75);
+    color: aliceblue
+    padding: 10px;
+}
+
+.from{
+    padding-top: 50px;
+    padding-right:50px;
+    height:100%;
+    width: 50%;
+
+}
+
+.img{
+    height: 500px;
+    width: 500px;
+}
